@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * store-item service.
+ * car service.
  */
 
 const { createCoreService } = require('@strapi/strapi').factories;
 
-module.exports = createCoreService('api::store-item.store-item');
+module.exports = createCoreService('api::car.car');
