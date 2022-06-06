@@ -36,6 +36,9 @@
     "state": {
       "type": "string",
       "required": false
+    },
+    "Gear": {
+      "type": "string"
     }
   }
 }
