@@ -19,9 +19,6 @@
     "AboutUs": {
       "type": "richtext",
       "required": true
-    },
-    "w33d4u": {
-      "type": "integer"
     }
   }
 }

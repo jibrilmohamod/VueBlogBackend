@@ -37,8 +37,13 @@
       "type": "string",
       "required": false
     },
-    "Gear": {
-      "type": "string"
+    "gear": {
+      "type": "string",
+      "required": true,
+      "minLength": 3
+    },
+    "fsdafaf": {
+      "type": "decimal"
     }
   }
 }
